@@ -1,2 +1,2 @@
 # CurrencyConverterVue.js
-Web app for currency converting (dollars to zlotys) consuming CurrencyConverterAPI (https://github.com/MacBie2k/CurrencyConverterApi)
+Web app for currency converting consuming CurrencyConverterAPI (https://github.com/MacBie2k/CurrencyConverterApi)
